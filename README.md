@@ -143,7 +143,7 @@ Modules are the way of organising different domain-specific modules in the proje
 ### Importing Assets
 Assets can be kept where you want and can be imported into your js files or css files. Those fill be served by webpack in development mode and copied to the dist folder during production.
 
-### ES6 support
+### ES6 support Test
 We use babel to transpile code in both server and client with `stage-0` plugin. So, you can use both ES6 and experimental ES7 features.
 
 ### Docker
